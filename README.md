@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://www.facebook.com/" target="_blak"><img src="https://simpleicon.com/wp-content/uploads/facebook-2.png"/></a>
+<a href="https://www.facebook.com/" target="_blak"><img src="https://img.shields.io/badge/[Facebook]-[#1877F2]?style=flat-square&logo=[Facebook]&logoColor=white"/></a>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=donghyun3996&theme=vue&show_icons=ture)
