@@ -23,3 +23,8 @@ Here are some ideas to get you started:
 click[My facebook](https://www.facebook.com/profile.php?id=100013166016266)
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=donghyun3996&theme=vue&show_icons=ture)
+<!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chanwoo00106&hide_langs_below=0.5)](https://github.com/donghyun3996)
+-->
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchanwoo00106%2Fhit-counter&count_bg=%23CD84F1&title_bg=%23F9CA24&icon=stackoverflow.svg&icon_color=%23FFFFFF&title=Teemo!&edge_flat=false)](https://hits.seeyoufarm.com)
