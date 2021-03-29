@@ -7,6 +7,16 @@
 <a href="https://replit.com/" target="_blank"><img src="https://img.shields.io/badge/JavaSclipt-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
 <a href="https://www.tensorflow.org/?hl=ko" target="_blank"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/></a>
 <a href="https://www.facebook.com/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
+<a href="https://www.youtube.com/" target="_blank"><img src="https://img.shields.io/badge/youtube-FF0000?style=flat-square&logo=youtube&logoColor=white"/></a>
+<a href="https://www.instagram.com/" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
+
+
+
+
+
+
+
+
 <!--
 **donghyun3996/donghyun3996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
