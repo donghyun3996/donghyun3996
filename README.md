@@ -27,4 +27,5 @@ click[My facebook](https://www.facebook.com/profile.php?id=100013166016266)
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chanwoo00106&hide_langs_below=0.5)](https://github.com/donghyun3996)
 -->
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdonghyun3996%2Fhit-counter&count_bg=%23CD84F1&title_bg=%23F9CA24&icon=stackoverflow.svg&icon_color=%23FFFFFF&title=Teemo!&edge_flat=false)](https://hits.seeyoufarm.com)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23FF0000&title_bg=%23100F0F&icon=googlefit.svg&icon_color=%23E7E7E7&title=Hp&edge_flat=false)](https://hits.seeyoufarm.com)
