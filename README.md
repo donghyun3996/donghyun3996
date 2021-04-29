@@ -1,9 +1,4 @@
-### Hi byung sin ah 👋
-<a href="https://www.facebook.com/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
-<a href="https://www.instagram.com/" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
-
-
-
+### Hi Hi Hi Hi Hi 👋
 
 
 
