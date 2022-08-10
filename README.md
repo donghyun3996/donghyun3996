@@ -1,6 +1,6 @@
 
 
-공부하자 열심히 제발 진짜로
+공부하자
 
 <!--
 **donghyun3996/donghyun3996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
